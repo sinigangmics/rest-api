@@ -1,0 +1,16 @@
+{
+  "27001521-6546-48a6-9581-f1cab6c5084f": {
+    "id": "27001521-6546-48a6-9581-f1cab6c5084f",
+    "name": "Wrist watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "1c92fb6f-badf-486f-b3d2-e32ee54c5210": {
+    "id": "1c92fb6f-badf-486f-b3d2-e32ee54c5210",
+    "name": "Rolex",
+    "price": 300,
+    "quantity": 70,
+    "image": "image_url1.png"
+  }
+}
